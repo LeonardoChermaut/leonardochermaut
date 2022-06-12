@@ -27,7 +27,7 @@
   
 <div>
 
- <h3 align="left">Conecte-se comigo:</h3>
+ <h3 align="center">Conecte-se comigo:</h3>
 <a align="center" href="https://instagram.com/leoschrmt" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a align="center" href = "mailto:leo.chermaut@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a align="center" href="https://www.linkedin.com/in/leonardochermaut" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
