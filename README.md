@@ -1,12 +1,11 @@
-## Hello World!
+## <p align="center">Hello World!</p>
 
-- 🌱 Estudante Full-Stack
 
 <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=leonardochermaut&show_icons=true&theme=dark&locale=en&layout=compact" alt="leoschermaut" />
 </p>
 
-<p align="center">
+<p  align="center">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leonardochermaut&theme=dark" alt="leonardochermaut" />
 </p>
 
