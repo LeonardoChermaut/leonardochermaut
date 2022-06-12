@@ -4,11 +4,15 @@
 - <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=leonardochermaut&show_icons=true&theme=dark&locale=en&layout=compact" alt="leoschermaut" />
 </p>
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leonardochermaut&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardochermaut&layout=compact&langs_count=16&theme=dark"/>
-</div>
-  
+
+<p align="center">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leonardochermaut&theme=dark" alt="leonardochermaut" />
+</p>
+
+<p align="center">&nbsp;
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=leonardochermaut&show_icons=true&theme=dark&locale=en" alt="leonardochermaut" />
+</p>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Leo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Leo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
